@@ -15,7 +15,6 @@ Welcome to the repository for my exam projects! This collection showcases my ski
 - [QUnit Tests](#qunit-tests)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
@@ -71,9 +70,6 @@ npx playwright test
 
 ### Running QUnit Tests
 Simply open the `test/index.html` file in your browser to run the tests.
-
-## Contributing
-Contributions are welcome! If you have any improvements or bug fixes, feel free to open a pull request.
 
 ## License
 This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
